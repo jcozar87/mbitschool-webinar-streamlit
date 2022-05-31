@@ -1,0 +1,8 @@
+streamlit
+typing-extensions
+pandas
+numpy
+seaborn
+google-cloud-vision
+altair
+vega-datasets
